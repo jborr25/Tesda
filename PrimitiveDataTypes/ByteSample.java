@@ -3,7 +3,7 @@ package PrimitiveDataTypes;
 //minimum value of -128 and a maximum value of 127 (inclusive)
 public class ByteSample {
     public static void main(String[] args) {
-        byte b = 100;
+        byte b = -128;
         System.out.println("Byte value: " + b);
  }
 }
